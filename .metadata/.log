@@ -1,0 +1,58 @@
+!SESSION 2011-08-18 12:05:29.230 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_26
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/dariuskersulis/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/dariuskersulis/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-08-18 12:06:17.915
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.765
+!MESSAGE Invalid property type 'Link[]' for property 'links'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.922
+!MESSAGE Invalid property type 'Anchor[]' for property 'anchors'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.924
+!MESSAGE Invalid property type 'Form[]' for property 'forms'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.924
+!MESSAGE Invalid property type 'Image[]' for property 'images'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.925
+!MESSAGE Invalid property type 'Plugin[]' for property 'plugins'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.930
+!MESSAGE Invalid property type 'HTMLElement[]' for property 'elements'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.943
+!MESSAGE Invalid property type 'HTMLElement[]' for property 'all'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.943
+!MESSAGE Invalid property type 'HTMLElement[]' for property 'children'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.964
+!MESSAGE Invalid property type 'Layer[]' for property 'layers'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:06.985
+!MESSAGE Invalid property type 'Plugin[]' for property 'plugins'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:07.014
+!MESSAGE Invalid property type 'Frame[]' for property 'frames'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:07.093
+!MESSAGE Invalid property type 'Anchor[]' for property 'anchors'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:07.096
+!MESSAGE Invalid property type 'Form[]' for property 'forms'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:07.286
+!MESSAGE Invalid parameter type 'String, Document' for parameter 'data'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:07.288
+!MESSAGE Invalid parameter type 'String, Document' for parameter 'header'
+
+!ENTRY com.aptana.parsing 4 0 2011-08-18 12:07:07.290
+!MESSAGE Invalid parameter type 'String, Document' for parameter 'value'
